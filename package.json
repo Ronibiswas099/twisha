@@ -1,6 +1,0 @@
-{
-  "name": "twisha-dashboard-proxy",
-  "private": true,
-  "version": "1.0.0",
-  "description": "Secure HTTPS proxy for the Twisha music dashboard"
-}
